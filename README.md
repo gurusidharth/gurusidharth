@@ -1,11 +1,4 @@
 <!-- ============================================================ -->
-<!--                     BANNER (replace URL)                     -->
-<!-- ============================================================ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gurusidharth/gurusidharth/main/assets/banner.png" alt="Guru Sidharth Banner" width="100%"/>
-</p>
-
-<!-- ============================================================ -->
 <!--                        HERO / TYPING SVG                     -->
 <!-- ============================================================ -->
 <h1 align="center">
@@ -195,16 +188,6 @@ Have a project in mind? Let's build something awesome together.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurusidharth&theme=github-dark&hide_border=true"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gurusidharth/gurusidharth/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation"/>
-</p>
-
-> Generated automatically via GitHub Actions — see `.github/workflows/snake.yml` below.
 
 ---
 
