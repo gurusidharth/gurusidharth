@@ -1,105 +1,268 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Guru Sidharth</h1>
+
 <h3 align="center">
-🌐 Full Stack Web Developer | Passionate Problem Solver | Building 
-Modern Web Experiences
+💻 Full Stack Developer | React Native Developer | AWS Cloud Enthusiast | Building Modern Healthcare & AI Solutions
 </h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
-</p>--
-## 🚀 About Me- 💻 I'm a **Full Stack Web Developer** passionate about creating 
-responsive and user-friendly web applications.- 🚀 I enjoy turning ideas into real-world projects.- 🌱 Currently learning **Next.js, TypeScript, and Cloud 
-Technologies**.- 🤝 Open to collaborating on exciting web development and open
-source projects.- 📚 Always exploring modern technologies and best development 
-practices.- ⚡ Fun Fact: **I love solving coding challenges and building 
-useful applications.**--
-## 🌐 Connect With Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Native+Developer;Vue.js+%7C+Node.js+%7C+MongoDB;AWS+Cloud+Learner;Healthcare+Software+Developer;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gurusidharth&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/gurusidharth?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/gurusidharth?affiliations=OWNER&style=social" />
+</p>
+
+---
+
+# 🚀 About Me
+
+💻 I'm a **Full Stack Developer** with **3+ years of professional experience** developing modern web and mobile applications.
+
+🏥 Currently working as a **Software Developer at Urban Care Community (UCC)**, building healthcare and social care management systems used across the **United Kingdom**.
+
+### 👨‍💻 I specialize in
+
+- ⚛️ React Native Mobile Development
+- 🌐 Full Stack Web Development
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB
+- 💙 Vue.js
+- ⚡ REST APIs
+- ☁️ AWS Cloud
+- 🚀 Modern UI/UX Development
+
+### 🌱 Currently Learning
+
+- AWS Cloud
+- Docker
+- Kubernetes
+- DevOps
+- CI/CD
+- System Design
+- Microservices
+- Next.js
+- TypeScript
+
+### 🎯 Career Goal
+
+Become a Cloud & Full Stack Engineer capable of building scalable enterprise applications while contributing to innovative healthcare and AI solutions.
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="[LinkedIn URL]">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for
-the-badge&logo=linkedin"/>
+
+<a href="https://www.linkedin.com/in/guru-sidharth/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="[Portfolio URL]">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for
-the-badge&logo=vercel"/>
+
+<a href="mailto:gurusidharthdev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="mailto:[Email Address]">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the
-badge&logo=gmail"/>
-</a>
-</p>--
+
+</p>
+
+---
+
 # 💻 Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
-</p>--
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vue,react,nextjs,nodejs,express,mongodb,mysql,supabase,firebase,aws,docker,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+
+</p>
+
+---
+
+# 🚀 Professional Experience
+
+### 🏥 Urban Care Community (UCC)
+
+**Software Developer**  
+📍 Chennai, India | March 2023 – Present
+
+Working on a healthcare platform serving care providers across the United Kingdom.
+
+### Key Contributions
+
+- 📱 React Native Mobile Applications
+- 🌐 Vue.js Admin Portal
+- 🔐 Authentication & Authorization
+- 📅 Booking & Shift Management
+- 🔔 Push Notifications
+- 👥 User Management
+- 📊 Admin Dashboard
+- 💳 Payment Workflow
+- 📱 API Integration
+- ⚡ Performance Optimization
+
+---
+
 # 🚀 Featured Projects
-## 🌍 Portfolio Website
-Modern personal portfolio showcasing projects, skills, and 
-experience.
+
+## 🏥 Healthcare Management Platform
+
+A complete healthcare & social care management platform supporting thousands of care workers and healthcare providers.
+
+### Features
+
+- Booking Management
+- Shift Scheduling
+- Authentication
+- Push Notifications
+- Admin Dashboard
+- Reports
+- Payment Management
+
 **Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
-🔗 Live Demo: [Portfolio URL]
-📂 Repository: [GitHub Repository]--
-## 🛒 E-Commerce Website
-A responsive online shopping platform with authentication and cart 
-functionality.
+
+`React Native` `Vue.js` `Node.js` `Express.js` `MongoDB`
+
+---
+
+## 🤖 AI Healthcare Platform
+
+Developing an AI-powered healthcare platform integrating AI assistants, patient management, appointment booking, and secure authentication.
+
 **Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
-🔗 Live Demo: [Project URL]
-📂 Repository: [GitHub Repository]--
-## ✅ Task Management App
-A productivity application to organize daily tasks with 
-authentication.
+
+`Next.js`
+
+`TypeScript`
+
+`Supabase`
+
+`Tailwind CSS`
+
+`Anthropic AI`
+
+---
+
+## ⚽ Football Live Score Platform
+
+Currently developing a football platform inspired by OneFootball featuring:
+
+- Live Scores
+- Match Statistics
+- Competitions
+- Teams
+- Transfers
+- News
+- Videos
+- Personalized Feed
+
 **Tech Stack**
-`React` `Firebase` `Tailwind CSS`
-🔗 Live Demo: [Project URL]
-📂 Repository: [GitHub Repository]--
+
+`Next.js`
+
+`Node.js`
+
+`MongoDB`
+
+`Redis`
+
+---
+
+# 🛠 Tech Skills
+
+### Frontend
+
+React Native • Vue.js • React • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind CSS • Bootstrap
+
+### Backend
+
+Node.js • Express.js • REST API • Authentication • JWT
+
+### Database
+
+MongoDB • MySQL • Supabase • Firebase
+
+### Cloud
+
+AWS EC2 • S3 • Lambda • RDS
+
+### Tools
+
+Git • GitHub • VS Code • Postman • Figma • npm • Expo
+
+---
+
 # 📊 GitHub Stats
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
-</p>--
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gurusidharth&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusidharth&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 # 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
-</p>--
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurusidharth&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 # 📈 Contribution Graph
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
-</p>--
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gurusidharth&theme=tokyo-night"/>
+
+</p>
+
+---
+
 # 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin
-w=10"/>
-</p>--
-# 🛠 Currently Working On- 🚀 Building full-stack web applications.- 🌱 Learning advanced React ecosystem.- ☁️ Exploring cloud deployment and DevOps.- 📱 Improving responsive UI/UX design.--
-# 📚 Currently Learning- TypeScript- Next.js- Docker- AWS- System Design- Backend Architecture--
-# 🎯 Goals for 2025- ✅ Contribute to Open Source- ✅ Build SaaS Applications- ✅ Master Full Stack Development- ✅ Learn Cloud Computing- ✅ Grow My Developer Portfolio--
+
+<img src="https://github-profile-trophy.vercel.app/?username=gurusidharth&theme=tokyonight&no-frame=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 📚 Certifications
+
+- ☁️ AWS Cloud Computing
+- 📖 Continuous Learning in Cloud & DevOps
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Become AWS Certified
+- ☁️ Master Cloud & DevOps
+- 🌍 Work for an International Product Company
+- 💻 Build Enterprise SaaS Products
+- 🤖 Build AI Applications
+- 📱 Publish React Native Apps
+- 🌟 Contribute to Open Source
+- 📖 Continue Learning Every Day
+
+---
+
 # 💡 Favorite Quote
-> "Code is like humor. When you have to explain it, it's bad." – 
-Cory House--
-<p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
-</p>--
+
+> **"Code is like humor. When you have to explain it, it's bad."**  
+> — Cory House
+
+---
+
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
+
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories and 
-connecting with me.
+Let's build something amazing together 🚀
 </p>
